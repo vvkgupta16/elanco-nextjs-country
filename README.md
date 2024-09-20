@@ -77,12 +77,12 @@ Version: 14.2.10
    git clone https://github.com/vvkgupta16/elanco-nextjs-country.git```
 
 Install the npm
-```bash
-   npm install or npm i```
+
+   npm install or npm i
 
 Run the development server:
 
-```bash
+
 npm run dev
 # or
 yarn dev
