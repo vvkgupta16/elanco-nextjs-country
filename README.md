@@ -74,7 +74,7 @@ Version: 14.2.10
 
 *Clone the repository:*
 ```bash
-   git clone https://github.com/vvkgupta16/elanco-nextjs-country.git```
+   git clone https://github.com/vvkgupta16/elanco-nextjs-country.git
 
 Install the npm
 
